@@ -34,7 +34,7 @@ install.packages('ggplot2')
 install.packages('readr')
 ```
 
-## Running instructions (Step-bys-step)
+## Running instructions (Step-by-step)
 To run the code, we recommend using the make file. Please follow the following instructions:
 
 1. Fork this repository
