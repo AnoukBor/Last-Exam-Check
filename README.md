@@ -34,10 +34,7 @@ install.packages('ggplot2')
 install.packages('readr')
 ```
 
-## Running instructions
-
-**Step-by-step**
-
+## Running instructions (Step-bys-step)
 To run the code, we recommend using the make file. Please follow the following instructions:
 
 1. Fork this repository
@@ -72,5 +69,5 @@ Alternatively, one can run the scripts/files in the following order:
 ## More resources
 
 ## About
-This research project is part of the [Data Preparation and Workflow Management (dPrep)](https://dprep.hannesdatta.com/) course at Tilburg University and is conducted on 11-01-2023 by Anouk Bor.(https://github.com/AnoukBor)
+This research project is part of the [Data Preparation and Workflow Management (dPrep)](https://dprep.hannesdatta.com/) course at Tilburg University and is conducted on 11-01-2023 by Anouk Bor (https://github.com/AnoukBor).
 
